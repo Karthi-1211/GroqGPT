@@ -1,0 +1,7 @@
+How to run this project:
+
+1.connect to mongo db in vs code.
+
+2.venv\Scripts\activate   = run this in terminal
+
+2.streamlit run chatbot.py
