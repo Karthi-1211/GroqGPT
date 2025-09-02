@@ -1,0 +1,6 @@
+streamlit
+groq
+numpy
+pandas
+python-dotenv
+langchain
