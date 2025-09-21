@@ -4,3 +4,4 @@ numpy
 pandas
 python-dotenv
 langchain
+langchain_groq
